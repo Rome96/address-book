@@ -27,7 +27,7 @@
 ### Available Scripts
 
 ## Install dependence 
-# ---------------------------------
+---------------------------------
 ## instal expo global 
 ### `npm install --global expo-cli`
 ### `yarn`
@@ -41,9 +41,9 @@
 
 
 ### Form App
-![Form](https://github.com/Rome96/address-book/blob/master/home.png)
+![Form](https://github.com/Rome96/address-book/blob/master/assets/home.png)
 ---
-![Form](https://github.com/Rome96/address-book/blob/master/createUser.png)
+![Form](https://github.com/Rome96/address-book/blob/master/assets/createUser.png)
 
 
 
